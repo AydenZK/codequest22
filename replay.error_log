@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "c:\users\sohan\venvs\cq\lib\site-packages\codequest22\client\__init__.py", line 11, in run_client
+    runner.load_bot(bot_path)
+  File "c:\users\sohan\venvs\cq\lib\site-packages\codequest22\client\runner.py", line 58, in load_bot
+    spec.loader.exec_module(module)
+  File "<frozen importlib._bootstrap_external>", line 724, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 859, in get_code
+  File "<frozen importlib._bootstrap_external>", line 916, in get_data
+FileNotFoundError: [Errno 2] No such file or directory: 'C:\\Users\\sohan\\Onedrive\\School\\Clubs\\CodeQuest\\sample_bot\\main.py'
