@@ -1,11 +1,8 @@
-from datetime import datetime
 from codequest22.server.ant import AntTypes
 import codequest22.stats as stats
 from codequest22.server.events import DepositEvent, DieEvent, ProductionEvent, ZoneActiveEvent, ZoneDeactivateEvent
 from codequest22.server.requests import GoalRequest, SpawnRequest
 
-with open('log.txt', 'w'):
-        pass
 
 def get_team_name():
     return f"Hill Bot"
@@ -25,7 +22,6 @@ total_ants = 0
 hill = []
 closest_hill_site = None
 ZoneActiveEventCounter = 0
-
 
 def read_map(md, energy_info):
     global map_data, spawns, food, distance, closest_food_site, hill, closest_hill_site
@@ -88,7 +84,6 @@ def read_map(md, energy_info):
     hill_sites = list(sorted(hill, key=lambda prod: distance[prod]))
     closest_hill_site = hill_sites[0]
 
-
 def handle_failed_requests(requests):
     global my_energy
     for req in requests:
@@ -134,25 +129,12 @@ def handle_events(events):
             # I will pay the base cost for this ant, so cost=None.
             requests.append(SpawnRequest(AntTypes.WORKER, id=None, color=None, goal=closest_food_site))
             my_energy -= stats.ants.Worker.COST
-        elif ZoneActiveEventCounter > 0 and my_energy > stats.ants.Settler.COST + stats.ants.Fighter.COST and total_ants <99:
-            spawned_this_tick += 1
-            total_ants += 1
+        elif ZoneActiveEventCounter > 0:
             spawned_this_tick += 1
             total_ants += 1
             # Spawn an ant, give it some id, no color, and send it to the closest site.
             # I will pay the base cost for this ant, so cost=None.
             requests.append(SpawnRequest(AntTypes.SETTLER, id=None, color=None, goal=closest_hill_site))
-            requests.append(SpawnRequest(AntTypes.FIGHTER, id=None, color=None, goal=closest_hill_site))
             my_energy -= stats.ants.Settler.COST
-            my_energy -= stats.ants.Fighter.COST
-        elif ZoneActiveEventCounter > 0 and my_energy > stats.ants.Settler.COST:
-            spawned_this_tick += 1
-            total_ants += 1
-            requests.append(SpawnRequest(AntTypes.SETTLER, id=None, color=None, goal=closest_hill_site))
-            my_energy -= stats.ants.Settler.COST
-
-    with open('log.txt', 'a') as log:
-        string = "LEVEL: INFO, DATE: " + str(datetime.now()) + "ENERGY: " + str(my_energy) +'\n'
-        log.write(string)
 
     return requests
