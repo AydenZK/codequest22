@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "c:\users\sohan\venvs\cq\lib\site-packages\codequest22\server\__init__.py", line 197, in start_server
+    x, y = req.position
+TypeError: cannot unpack non-iterable NoneType object

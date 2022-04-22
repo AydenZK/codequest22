@@ -1,11 +1,8 @@
-from datetime import datetime
 from codequest22.server.ant import AntTypes
 import codequest22.stats as stats
-from codequest22.server.events import DepositEvent, DieEvent, ProductionEvent, ZoneActiveEvent, ZoneDeactivateEvent
+from codequest22.server.events import DepositEvent, DieEvent, ProductionEvent, ZoneActiveEvent, ZoneDeactivateEvent, QueenAttackEvent
 from codequest22.server.requests import GoalRequest, SpawnRequest
-
-with open('log.txt', 'w'):
-        pass
+import random
 
 def get_team_name():
     return f"Hill Bot"
@@ -25,7 +22,6 @@ total_ants = 0
 hill = []
 closest_hill_site = None
 ZoneActiveEventCounter = 0
-
 
 def read_map(md, energy_info):
     global map_data, spawns, food, distance, closest_food_site, hill, closest_hill_site
@@ -84,10 +80,10 @@ def read_map(md, energy_info):
     # Now I can calculate the closest food site.
     food_sites = list(sorted(food, key=lambda prod: distance[prod]))
     closest_food_site = food_sites[0]
+    food = food_sites
     
     hill_sites = list(sorted(hill, key=lambda prod: distance[prod]))
     closest_hill_site = hill_sites[0]
-
 
 def handle_failed_requests(requests):
     global my_energy
@@ -97,13 +93,13 @@ def handle_failed_requests(requests):
             raise ValueError()
 
 def handle_events(events):
-    global my_energy, total_ants, closest_hill_site, ZoneActiveEventCounter
+    global my_energy, total_ants, closest_hill_site, ZoneActiveEventCounter, food
     requests = []
     for ev in events:
         if isinstance(ev, DepositEvent):
             if ev.player_index == my_index:
                 # One of my worker ants just made it back to the Queen! Let's send them back to the food site.    
-                requests.append(GoalRequest(ev.ant_id, closest_food_site))
+                requests.append(GoalRequest(ev.ant_id, food[random.randrange(0,5)]))
                 # Additionally, let's update how much energy I've got.
                 my_energy = ev.cur_energy
         elif isinstance(ev, ProductionEvent):
@@ -119,40 +115,47 @@ def handle_events(events):
             ZoneActiveEventCounter +=1
         elif isinstance(ev, ZoneDeactivateEvent):
             ZoneActiveEventCounter -= 1
+        elif isinstance(ev, QueenAttackEvent):
+            if ev.queen_player_index == my_index:
+                spawned_this_tick += 1
+                total_ants += 1
+                requests.append(SpawnRequest(AntTypes.FIGHTER, id=None, color=None, goal=spawns[my_index]))
+                my_energy -= stats.ants.Fighter.COST
+            else:
+                continue
+
 
     # Can I spawn ants?
     spawned_this_tick = 0
-    while (
-        total_ants < stats.general.MAX_ANTS_PER_PLAYER and 
-        spawned_this_tick < stats.general.MAX_SPAWNS_PER_TICK and
-        my_energy >= stats.ants.Worker.COST
-    ):
-        if ZoneActiveEventCounter == 0:
-            spawned_this_tick += 1
-            total_ants += 1
-            # Spawn an ant, give it some id, no color, and send it to the closest site.
-            # I will pay the base cost for this ant, so cost=None.
-            requests.append(SpawnRequest(AntTypes.WORKER, id=None, color=None, goal=closest_food_site))
-            my_energy -= stats.ants.Worker.COST
-        elif ZoneActiveEventCounter > 0 and my_energy > stats.ants.Settler.COST + stats.ants.Fighter.COST and total_ants <99:
-            spawned_this_tick += 1
-            total_ants += 1
-            spawned_this_tick += 1
-            total_ants += 1
-            # Spawn an ant, give it some id, no color, and send it to the closest site.
-            # I will pay the base cost for this ant, so cost=None.
-            requests.append(SpawnRequest(AntTypes.SETTLER, id=None, color=None, goal=closest_hill_site))
-            requests.append(SpawnRequest(AntTypes.FIGHTER, id=None, color=None, goal=closest_hill_site))
-            my_energy -= stats.ants.Settler.COST
-            my_energy -= stats.ants.Fighter.COST
-        elif ZoneActiveEventCounter > 0 and my_energy > stats.ants.Settler.COST:
-            spawned_this_tick += 1
-            total_ants += 1
-            requests.append(SpawnRequest(AntTypes.SETTLER, id=None, color=None, goal=closest_hill_site))
-            my_energy -= stats.ants.Settler.COST
-
-    with open('log.txt', 'a') as log:
-        string = "LEVEL: INFO, DATE: " + str(datetime.now()) + "ENERGY: " + str(my_energy) +'\n'
-        log.write(string)
+    # while (
+    #     total_ants < stats.general.MAX_ANTS_PER_PLAYER and 
+    #     spawned_this_tick < stats.general.MAX_SPAWNS_PER_TICK and
+    #     my_energy >= stats.ants.Worker.COST
+    # ):
+    for _ in range(stats.general.MAX_SPAWNS_PER_TICK):
+        if total_ants < stats.general.MAX_ANTS_PER_PLAYER and my_energy >= stats.ants.Worker.COST:
+            if ZoneActiveEventCounter == 0 or my_energy<100:
+                spawned_this_tick += 1
+                total_ants += 1
+                # Spawn an ant, give it some id, no color, and send it to the closest site.
+                # I will pay the base cost for this ant, so cost=None.
+                requests.append(SpawnRequest(AntTypes.WORKER, id=None, color=None, goal=food[random.randrange(0,5)]))
+                my_energy -= stats.ants.Worker.COST
+            elif ZoneActiveEventCounter> 0 and my_energy>100 and my_energy<650:
+                spawned_this_tick += 1
+                total_ants += 1
+                # Spawn an ant, give it some id, no color, and send it to the closest site.
+                # I will pay the base cost for this ant, so cost=None.
+                requests.append(SpawnRequest(AntTypes.SETTLER, id=None, color=None, goal=closest_hill_site))
+                my_energy -= stats.ants.Settler.COST
+            elif my_energy > 650:
+                spawned_this_tick += 1
+                total_ants += 1
+                # Spawn an ant, give it some id, no color, and send it to the closest site.
+                # I will pay the base cost for this ant, so cost=None.
+                requests.append(SpawnRequest(AntTypes.FIGHTER, id=None, color=None, goal=food[random.randrange(0,5)]))
+                my_energy -= stats.ants.Fighter.COST
+        else:
+            break
 
     return requests
