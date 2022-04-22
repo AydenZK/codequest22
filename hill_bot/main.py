@@ -17,16 +17,20 @@ map_data = {}
 spawns = [None]*4
 food = []
 distance = {}
-closest_site = None
+closest_food_site = None
 total_ants = 0
+hill = []
+closest_hill_site = None
 
 def read_map(md, energy_info):
-    global map_data, spawns, food, distance, closest_site
+    global map_data, spawns, food, distance, closest_food_site, hill, closest_hill_site
     map_data = md
     for y in range(len(map_data)):
         for x in range(len(map_data[0])):
             if map_data[y][x] == "F":
                 food.append((x, y))
+            if map_data[y][x] == "Z":
+                hill.append((x, y))
             if map_data[y][x] in "RBYG":
                 spawns["RBYG".index(map_data[y][x])] = (x, y)
     # Read map is called after read_index
@@ -74,7 +78,10 @@ def read_map(md, energy_info):
                 ))
     # Now I can calculate the closest food site.
     food_sites = list(sorted(food, key=lambda prod: distance[prod]))
-    closest_site = food_sites[0]
+    closest_food_site = food_sites[0]
+    
+    hill_sites = list(sorted(hill, key=lambda prod: distance[prod]))
+    closest_hill_site = hill_sites[0]
 
 def handle_failed_requests(requests):
     global my_energy
@@ -90,8 +97,8 @@ def handle_events(events):
     for ev in events:
         if isinstance(ev, DepositEvent):
             if ev.player_index == my_index:
-                # One of my worker ants just made it back to the Queen! Let's send them back to the food site.
-                requests.append(GoalRequest(ev.ant_id, closest_site))
+                # One of my worker ants just made it back to the Queen! Let's send them back to the food site.    
+                requests.append(GoalRequest(ev.ant_id, closest_food_site))
                 # Additionally, let's update how much energy I've got.
                 my_energy = ev.cur_energy
         elif isinstance(ev, ProductionEvent):
@@ -110,20 +117,20 @@ def handle_events(events):
         spawned_this_tick < stats.general.MAX_SPAWNS_PER_TICK and
         my_energy >= stats.ants.Worker.COST
     ):
-        if my_energy < 700:
+        if my_energy < 100:
             spawned_this_tick += 1
             total_ants += 1
             # Spawn an ant, give it some id, no color, and send it to the closest site.
             # I will pay the base cost for this ant, so cost=None.
-            requests.append(SpawnRequest(AntTypes.WORKER, id=None, color=None, goal=closest_site))
+            requests.append(SpawnRequest(AntTypes.WORKER, id=None, color=None, goal=closest_food_site))
             my_energy -= stats.ants.Worker.COST
         else:
             spawned_this_tick += 1
             total_ants += 1
             # Spawn an ant, give it some id, no color, and send it to the closest site.
             # I will pay the base cost for this ant, so cost=None.
-            requests.append(SpawnRequest(AntTypes.SETTLER, id=None, color=None, goal=closest_site))
-            my_energy -= stats.ants.Worker.COST
+            requests.append(SpawnRequest(AntTypes.SETTLER, id=None, color=None, goal=closest_hill_site))
+            my_energy -= stats.ants.Settler.COST
 
 
     return requests
