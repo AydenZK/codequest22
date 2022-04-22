@@ -1,341 +1,195 @@
-{"LEVEL": "INFO", "TIME": "22:43:42.444105", "TICK": 1, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:44.957223", "TICK": 2, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.067634", "TICK": 3, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.190855", "TICK": 4, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.314656", "TICK": 5, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.440397", "TICK": 6, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.564067", "TICK": 7, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.687896", "TICK": 8, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.817979", "TICK": 9, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:45.940697", "TICK": 10, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.063508", "TICK": 11, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.185583", "TICK": 12, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.305744", "TICK": 13, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.428260", "TICK": 14, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.549819", "TICK": 15, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.671445", "TICK": 16, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.795952", "TICK": 17, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:46.919151", "TICK": 18, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.044023", "TICK": 19, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.168364", "TICK": 20, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.291288", "TICK": 21, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.416089", "TICK": 22, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.536888", "TICK": 23, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.660365", "TICK": 24, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.788435", "TICK": 25, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:47.905587", "TICK": 26, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.027386", "TICK": 27, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.149166", "TICK": 28, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.272244", "TICK": 29, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.393809", "TICK": 30, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.517314", "TICK": 31, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.639716", "TICK": 32, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.762461", "TICK": 33, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:48.887054", "TICK": 34, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.009481", "TICK": 35, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.132038", "TICK": 36, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.251917", "TICK": 37, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.381384", "TICK": 38, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.501159", "TICK": 39, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.621957", "TICK": 40, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.739834", "TICK": 41, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.861236", "TICK": 42, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:49.983774", "TICK": 43, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.103187", "TICK": 44, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.223924", "TICK": 45, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.343923", "TICK": 46, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.469908", "TICK": 47, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.593779", "TICK": 48, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.719305", "TICK": 49, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.840965", "TICK": 50, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:50.965248", "TICK": 51, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.087654", "TICK": 52, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.210512", "TICK": 53, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.334730", "TICK": 54, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.456644", "TICK": 55, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.581471", "TICK": 56, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.706968", "TICK": 57, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.830390", "TICK": 58, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:51.953011", "TICK": 59, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.075679", "TICK": 60, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.200789", "TICK": 61, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.323763", "TICK": 62, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.447134", "TICK": 63, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.572096", "TICK": 64, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.694888", "TICK": 65, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.823060", "TICK": 66, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:52.945709", "TICK": 67, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.071196", "TICK": 68, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.192717", "TICK": 69, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.320430", "TICK": 70, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.443278", "TICK": 71, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.566233", "TICK": 72, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.689608", "TICK": 73, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.812226", "TICK": 74, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:53.937051", "TICK": 75, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.063133", "TICK": 76, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.186756", "TICK": 77, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.308738", "TICK": 78, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.433509", "TICK": 79, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.555600", "TICK": 80, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.676688", "TICK": 81, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.799643", "TICK": 82, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:54.921057", "TICK": 83, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.044663", "TICK": 84, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.169412", "TICK": 85, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.291522", "TICK": 86, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.416273", "TICK": 87, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.540869", "TICK": 88, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.662712", "TICK": 89, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.786495", "TICK": 90, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:55.908332", "TICK": 91, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.031307", "TICK": 92, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.155373", "TICK": 93, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.276435", "TICK": 94, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.402037", "TICK": 95, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.525358", "TICK": 96, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.647718", "TICK": 97, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.770611", "TICK": 98, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:56.892920", "TICK": 99, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.017176", "TICK": 100, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.140284", "TICK": 101, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.263071", "TICK": 102, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.389790", "TICK": 103, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.511143", "TICK": 104, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.638267", "TICK": 105, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.762719", "TICK": 106, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:57.889061", "TICK": 107, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.010340", "TICK": 108, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.132031", "TICK": 109, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.255018", "TICK": 110, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.380040", "TICK": 111, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.501797", "TICK": 112, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.624773", "TICK": 113, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.746546", "TICK": 114, "energy": 0, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.871832", "TICK": 115, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:58.991984", "TICK": 116, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.117596", "TICK": 117, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.239652", "TICK": 118, "energy": 10, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.363211", "TICK": 119, "energy": 20, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.486300", "TICK": 120, "energy": 60, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.606554", "TICK": 121, "energy": 70, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.728154", "TICK": 122, "energy": 80, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.853251", "TICK": 123, "energy": 90, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:43:59.974127", "TICK": 124, "energy": 100, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.097513", "TICK": 125, "energy": 110, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.219865", "TICK": 126, "energy": 140, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.342019", "TICK": 127, "energy": 170, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.462846", "TICK": 128, "energy": 180, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.588486", "TICK": 129, "energy": 210, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.709387", "TICK": 130, "energy": 250, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.833603", "TICK": 131, "energy": 250, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:00.958379", "TICK": 132, "energy": 290, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.081148", "TICK": 133, "energy": 270, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.207674", "TICK": 134, "energy": 310, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.328332", "TICK": 135, "energy": 290, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.453025", "TICK": 136, "energy": 290, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.576884", "TICK": 137, "energy": 330, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.701712", "TICK": 138, "energy": 340, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.825718", "TICK": 139, "energy": 370, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:01.949168", "TICK": 140, "energy": 380, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.074798", "TICK": 141, "energy": 410, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.199263", "TICK": 142, "energy": 420, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.324401", "TICK": 143, "energy": 430, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.445894", "TICK": 144, "energy": 440, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.569700", "TICK": 145, "energy": 470, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.693480", "TICK": 146, "energy": 510, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.814627", "TICK": 147, "energy": 510, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:02.940131", "TICK": 148, "energy": 520, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.062734", "TICK": 149, "energy": 550, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.189666", "TICK": 150, "energy": 560, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.310861", "TICK": 151, "energy": 590, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.434215", "TICK": 152, "energy": 590, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.556807", "TICK": 153, "energy": 570, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.678559", "TICK": 154, "energy": 600, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.803331", "TICK": 155, "energy": 630, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:03.925137", "TICK": 156, "energy": 630, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.049038", "TICK": 157, "energy": 670, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.174469", "TICK": 158, "energy": 630, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.297875", "TICK": 159, "energy": 640, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.422229", "TICK": 160, "energy": 670, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.545540", "TICK": 161, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.666556", "TICK": 162, "energy": 720, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.789262", "TICK": 163, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:04.913418", "TICK": 164, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.033451", "TICK": 165, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.158293", "TICK": 166, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.281814", "TICK": 167, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.406390", "TICK": 168, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.528499", "TICK": 169, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.651325", "TICK": 170, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.771835", "TICK": 171, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:05.892848", "TICK": 172, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.013847", "TICK": 173, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.138454", "TICK": 174, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.259466", "TICK": 175, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.381375", "TICK": 176, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.507299", "TICK": 177, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.630523", "TICK": 178, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.755682", "TICK": 179, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:06.877910", "TICK": 180, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.003112", "TICK": 181, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.129363", "TICK": 182, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.252685", "TICK": 183, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.376582", "TICK": 184, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.500902", "TICK": 185, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.625008", "TICK": 186, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.748219", "TICK": 187, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.873165", "TICK": 188, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:07.999666", "TICK": 189, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.123732", "TICK": 190, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.246760", "TICK": 191, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.371459", "TICK": 192, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.493940", "TICK": 193, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.615724", "TICK": 194, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.743114", "TICK": 195, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.866036", "TICK": 196, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:08.991547", "TICK": 197, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.114697", "TICK": 198, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.239617", "TICK": 199, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.364069", "TICK": 200, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.486718", "TICK": 201, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.608097", "TICK": 202, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.731537", "TICK": 203, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.856474", "TICK": 204, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:09.980014", "TICK": 205, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.102500", "TICK": 206, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.225570", "TICK": 207, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.347536", "TICK": 208, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.470385", "TICK": 209, "energy": 690, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.593368", "TICK": 210, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.713938", "TICK": 211, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.840847", "TICK": 212, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:10.978947", "TICK": 213, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.104081", "TICK": 214, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.229950", "TICK": 215, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.351844", "TICK": 216, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.476330", "TICK": 217, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.600301", "TICK": 218, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.725139", "TICK": 219, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.847309", "TICK": 220, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:11.972759", "TICK": 221, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.096615", "TICK": 222, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.218805", "TICK": 223, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.344886", "TICK": 224, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.466961", "TICK": 225, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.592450", "TICK": 226, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.716531", "TICK": 227, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.841075", "TICK": 228, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:12.964274", "TICK": 229, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.085272", "TICK": 230, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.212646", "TICK": 231, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.340368", "TICK": 232, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.459981", "TICK": 233, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.585217", "TICK": 234, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.706059", "TICK": 235, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.829769", "TICK": 236, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:13.952802", "TICK": 237, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.077212", "TICK": 238, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.199269", "TICK": 239, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.323577", "TICK": 240, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.447131", "TICK": 241, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.574571", "TICK": 242, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.697721", "TICK": 243, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.821429", "TICK": 244, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:14.947553", "TICK": 245, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.071694", "TICK": 246, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.195374", "TICK": 247, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.319434", "TICK": 248, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.446852", "TICK": 249, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.568735", "TICK": 250, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.689343", "TICK": 251, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.814470", "TICK": 252, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:15.940832", "TICK": 253, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.060985", "TICK": 254, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.183382", "TICK": 255, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.309904", "TICK": 256, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.430844", "TICK": 257, "energy": 740, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.552940", "TICK": 258, "energy": 740, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.679825", "TICK": 259, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.802623", "TICK": 260, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:16.926181", "TICK": 261, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.049947", "TICK": 262, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.174311", "TICK": 263, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.297728", "TICK": 264, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.423188", "TICK": 265, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.548753", "TICK": 266, "energy": 740, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.675549", "TICK": 267, "energy": 740, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.798427", "TICK": 268, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:17.922857", "TICK": 269, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.047592", "TICK": 270, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.170465", "TICK": 271, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.295412", "TICK": 272, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.417728", "TICK": 273, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.542988", "TICK": 274, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.666942", "TICK": 275, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.789558", "TICK": 276, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:18.914061", "TICK": 277, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.038922", "TICK": 278, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.162279", "TICK": 279, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.284648", "TICK": 280, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.410221", "TICK": 281, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.534150", "TICK": 282, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.660226", "TICK": 283, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.784729", "TICK": 284, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:19.909268", "TICK": 285, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.032849", "TICK": 286, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.155789", "TICK": 287, "energy": 740, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.278283", "TICK": 288, "energy": 740, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.399468", "TICK": 289, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.525431", "TICK": 290, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.648537", "TICK": 291, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.773547", "TICK": 292, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:20.897118", "TICK": 293, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.020252", "TICK": 294, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.144995", "TICK": 295, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.268032", "TICK": 296, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.392145", "TICK": 297, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.520221", "TICK": 298, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.639389", "TICK": 299, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.762387", "TICK": 300, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:21.885382", "TICK": 301, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.007537", "TICK": 302, "energy": 710, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.128917", "TICK": 303, "energy": 740, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.250991", "TICK": 304, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.373714", "TICK": 305, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.495845", "TICK": 306, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.616419", "TICK": 307, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.739583", "TICK": 308, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.863438", "TICK": 309, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:22.985139", "TICK": 310, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.110752", "TICK": 311, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.234358", "TICK": 312, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.360221", "TICK": 313, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.482374", "TICK": 314, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.605212", "TICK": 315, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.730910", "TICK": 316, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.850530", "TICK": 317, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:23.976614", "TICK": 318, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.100012", "TICK": 319, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.223867", "TICK": 320, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.345765", "TICK": 321, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.469858", "TICK": 322, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.596170", "TICK": 323, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.719874", "TICK": 324, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.843496", "TICK": 325, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:24.966569", "TICK": 326, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.090814", "TICK": 327, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.217168", "TICK": 328, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.339015", "TICK": 329, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.464098", "TICK": 330, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.587283", "TICK": 331, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.711913", "TICK": 332, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.834844", "TICK": 333, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:25.957553", "TICK": 334, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:26.080316", "TICK": 335, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:26.202516", "TICK": 336, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:26.323476", "TICK": 337, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:26.447822", "TICK": 338, "energy": 730, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:26.569533", "TICK": 339, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:26.694140", "TICK": 340, "energy": 750, "n": 0.5, "m": 1}
-{"LEVEL": "INFO", "TIME": "22:44:26.817041", "TICK": 341, "energy": 750, "n": 0.5, "m": 1}
+{"LEVEL": "INFO", "TIME": "03:28:11.698710", "TICK": 2, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.708694", "TICK": 2, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.716594", "TICK": 2, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.724280", "TICK": 2, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.731750", "TICK": 2, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.855187", "TICK": 3, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.863793", "TICK": 3, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.871802", "TICK": 3, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.879431", "TICK": 3, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:11.887207", "TICK": 3, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.013975", "TICK": 4, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.022479", "TICK": 4, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.030643", "TICK": 4, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.038823", "TICK": 4, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.046583", "TICK": 4, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.173888", "TICK": 5, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.182979", "TICK": 5, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.193136", "TICK": 5, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.202118", "TICK": 5, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.209965", "TICK": 5, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.331270", "TICK": 6, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.339725", "TICK": 6, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.347700", "TICK": 6, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.355647", "TICK": 6, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.363314", "TICK": 6, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.492612", "TICK": 7, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.501201", "TICK": 7, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.509164", "TICK": 7, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.517199", "TICK": 7, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.525847", "TICK": 7, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.651211", "TICK": 8, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.659333", "TICK": 8, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.667392", "TICK": 8, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.675493", "TICK": 8, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.683054", "TICK": 8, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.809808", "TICK": 9, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.818163", "TICK": 9, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.826570", "TICK": 9, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.835838", "TICK": 9, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.846397", "TICK": 9, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.968533", "TICK": 10, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.976545", "TICK": 10, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.984206", "TICK": 10, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.992315", "TICK": 10, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:12.999988", "TICK": 10, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.128010", "TICK": 11, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.137466", "TICK": 11, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.145481", "TICK": 11, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.154212", "TICK": 11, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.162569", "TICK": 11, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.287172", "TICK": 12, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.294999", "TICK": 12, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.302098", "TICK": 12, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.310138", "TICK": 12, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.319396", "TICK": 12, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.446493", "TICK": 13, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.456999", "TICK": 13, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.465126", "TICK": 13, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.473573", "TICK": 13, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.481715", "TICK": 13, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.605482", "TICK": 14, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.613814", "TICK": 14, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.621878", "TICK": 14, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.629647", "TICK": 14, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.637565", "TICK": 14, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.766030", "TICK": 15, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.773914", "TICK": 15, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.781848", "TICK": 15, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.790505", "TICK": 15, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.800667", "TICK": 15, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.924345", "TICK": 16, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.932409", "TICK": 16, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.940232", "TICK": 16, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.948217", "TICK": 16, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:13.956007", "TICK": 16, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.082161", "TICK": 17, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.090059", "TICK": 17, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.097870", "TICK": 17, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.105799", "TICK": 17, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.113579", "TICK": 17, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.240849", "TICK": 18, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.249329", "TICK": 18, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.257614", "TICK": 18, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.265752", "TICK": 18, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.273711", "TICK": 18, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.397173", "TICK": 19, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.406105", "TICK": 19, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.415474", "TICK": 19, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.424851", "TICK": 19, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.433107", "TICK": 19, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.551332", "TICK": 20, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.559801", "TICK": 20, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.568319", "TICK": 20, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.576003", "TICK": 20, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.584136", "TICK": 20, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.709103", "TICK": 21, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.717421", "TICK": 21, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.725556", "TICK": 21, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.733454", "TICK": 21, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.741444", "TICK": 21, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.866130", "TICK": 22, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.875804", "TICK": 22, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.885661", "TICK": 22, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.894819", "TICK": 22, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:14.903078", "TICK": 22, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.025651", "TICK": 23, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.033973", "TICK": 23, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.041775", "TICK": 23, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.049874", "TICK": 23, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.057779", "TICK": 23, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.185158", "TICK": 24, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.193672", "TICK": 24, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.201918", "TICK": 24, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.210097", "TICK": 24, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.218242", "TICK": 24, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.342950", "TICK": 25, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.350967", "TICK": 25, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.358440", "TICK": 25, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.366122", "TICK": 25, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.373698", "TICK": 25, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.498074", "TICK": 26, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.506345", "TICK": 26, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.514054", "TICK": 26, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.521566", "TICK": 26, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.529238", "TICK": 26, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.655043", "TICK": 27, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.663017", "TICK": 27, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.670738", "TICK": 27, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.678717", "TICK": 27, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.686401", "TICK": 27, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.810095", "TICK": 28, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.818225", "TICK": 28, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.826225", "TICK": 28, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.835699", "TICK": 28, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.845454", "TICK": 28, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.969169", "TICK": 29, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.977389", "TICK": 29, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.986576", "TICK": 29, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:15.996010", "TICK": 29, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.005087", "TICK": 29, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.126403", "TICK": 30, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.134934", "TICK": 30, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.143188", "TICK": 30, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.151053", "TICK": 30, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.158830", "TICK": 30, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.281805", "TICK": 31, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.290544", "TICK": 31, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.298387", "TICK": 31, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.306025", "TICK": 31, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.313373", "TICK": 31, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.436247", "TICK": 32, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.444424", "TICK": 32, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.452509", "TICK": 32, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.460584", "TICK": 32, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.468506", "TICK": 32, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.592352", "TICK": 33, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.600234", "TICK": 33, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.607713", "TICK": 33, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.615383", "TICK": 33, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.622889", "TICK": 33, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.748808", "TICK": 34, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.756850", "TICK": 34, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.764592", "TICK": 34, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.772435", "TICK": 34, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.780158", "TICK": 34, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.905089", "TICK": 35, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.913246", "TICK": 35, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.920940", "TICK": 35, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.928696", "TICK": 35, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:16.936560", "TICK": 35, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.060372", "TICK": 36, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.067748", "TICK": 36, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.075586", "TICK": 36, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.083464", "TICK": 36, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.091275", "TICK": 36, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.218354", "TICK": 37, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.226522", "TICK": 37, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.234489", "TICK": 37, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.242433", "TICK": 37, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.250145", "TICK": 37, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.376876", "TICK": 38, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.388482", "TICK": 38, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.399110", "TICK": 38, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.408893", "TICK": 38, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.418668", "TICK": 38, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.552736", "TICK": 39, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.561236", "TICK": 39, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.569137", "TICK": 39, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.577691", "TICK": 39, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.585661", "TICK": 39, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.714401", "TICK": 40, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.723165", "TICK": 40, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.730959", "TICK": 40, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.738754", "TICK": 40, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
+{"LEVEL": "INFO", "TIME": "03:28:17.746347", "TICK": 40, "SPAWN_ERROR": "Not enough energy to spawn worker: 0"}
