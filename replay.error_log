@@ -1,4 +1,24 @@
 Traceback (most recent call last):
-  File "c:\users\sohan\venvs\cq\lib\site-packages\codequest22\server\__init__.py", line 197, in start_server
-    x, y = req.position
-TypeError: cannot unpack non-iterable NoneType object
+  File "c:\venvs\rtg\lib\site-packages\codequest22\visual\game.py", line 169, in run_visual
+    arcade.run()
+  File "c:\venvs\rtg\lib\site-packages\arcade\window_commands.py", line 276, in run
+    pyglet.app.run()
+  File "c:\venvs\rtg\lib\site-packages\pyglet\app\__init__.py", line 107, in run
+    event_loop.run(interval)
+  File "c:\venvs\rtg\lib\site-packages\pyglet\app\base.py", line 184, in run
+    timeout = self.idle()
+  File "c:\venvs\rtg\lib\site-packages\pyglet\app\base.py", line 245, in idle
+    self.clock.call_scheduled_functions(dt)
+  File "c:\venvs\rtg\lib\site-packages\pyglet\clock.py", line 275, in call_scheduled_functions
+    item.func(now - item.last_ts, *item.args, **item.kwargs)
+  File "c:\venvs\rtg\lib\site-packages\pyglet\app\base.py", line 154, in _redraw_windows
+    window.dispatch_event('on_draw')
+  File "c:\venvs\rtg\lib\site-packages\pyglet\window\__init__.py", line 1327, in dispatch_event
+    super().dispatch_event(*args)
+  File "c:\venvs\rtg\lib\site-packages\pyglet\event.py", line 427, in dispatch_event
+    raise e
+  File "c:\venvs\rtg\lib\site-packages\pyglet\event.py", line 422, in dispatch_event
+    if getattr(self, event_type)(*args):
+  File "c:\venvs\rtg\lib\site-packages\codequest22\visual\screen.py", line 714, in on_draw
+    self.draw_player_ui_main_under(GameStateHandler.hill, GameStateHandler.energy, GameStateHandler.health)
+AttributeError: type object 'GameStateHandler' has no attribute 'hill'
